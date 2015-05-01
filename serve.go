@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/hawx/serve"
+	"hawx.me/code/serve"
 
-	"log"
 	"flag"
+	"log"
 	"net"
 	"net/http"
 	"net/http/httputil"
